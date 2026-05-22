@@ -42,7 +42,7 @@ All available options:
 |---|---|---|
 | `--model` | `Qwen/Qwen3-0.6B-Base` | HuggingFace model ID or local path |
 | `--peft` | `lora` | Specific LoRA methods to estimate Hessian |
-| `--data_path` | `./pissa-dataset/metamath/train.json` | Path to dataset JSON file |
+| `--data_path` | `../run-lora/lora-dataset/pissa-dataset/metamath/train.json` | Path to dataset JSON file |
 | `--dataset_field` | `instruction,output` | Comma-separated query and response field names |
 | `--scan_modules` | `q_proj,...,down_proj` | Comma-separated list of modules to scan |
 | `--layer_start` | `0` | First transformer layer to scan (inclusive) |
