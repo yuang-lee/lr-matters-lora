@@ -125,8 +125,7 @@ bash scripts/run.sh \
 
 
 > [!NOTE]
-> For MiLoRA, Init[AB], and LoRA-GA, the model weights (residual weights and LoRA adpaters) need to be pre-computed and saved locally before running the Hessian analysis.  The expected paths are hard-coded in `lanczos.py` per model and rank — see the `load_model` function for details.
-
+> For MiLoRA, Init[AB], and LoRA-GA, the model weights (residual weights and LoRA adapters) need to be pre-computed and saved locally before running the Hessian analysis. The expected paths are hard-coded in both `utils/init_XXX` and `lanczos.py` — adjust them to your custom path.
 
 
 #### *MiLoRA*

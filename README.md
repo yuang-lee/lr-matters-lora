@@ -15,6 +15,7 @@
   - [3. Which learning rate to use?](#3-which-learning-rate-to-use)
   - [4. How can we tune LoRA methods efficiently?](#4-how-can-we-tune-lora-methods-efficiently)
 - [Code Structure](#code-structure)
+- [Contact us](#contact-us)
 - [Acknowledgements](#acknowledgements)
 - [Citation](#citation)
 
@@ -86,7 +87,16 @@ lr-matters-lora
 └── practical-heuristics: our summarized practical heuristics for LoRA hyperparameter tuning
 ```
 
-Please refer to the README files in each folder for more detailed instructions.
+***Please refer to the README files in each folder for more detailed instructions.***
+
+## Contact us
+
+If you encounter any issues (e.g., unclear instructions, bugs, etc.), or if you have any feedback or suggestions, please feel free to contact us:
+
+- Open an [issue](https://github.com/yuang-lee/lr-matters-lora/issues?q=is%3Aissue)
+- Open a [discussion](https://github.com/yuang-lee/lr-matters-lora/discussions)
+- Email us: `r12946015@ntu.edu.tw`, `cyko@ibm.com`, `pin-yu.chen@ibm.com`, `miyen@iis.sinica.edu.tw`
+
 
 ## Acknowledgements
 

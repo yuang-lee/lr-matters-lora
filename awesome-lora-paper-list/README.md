@@ -46,8 +46,8 @@ Importantly:
 ## Comprehensive List of Papers
 
 - ***arXiv Date*** marks the release date of the first version on arXiv (denoted as ***--*** if unavailable), with the corresponding link directing you to the paper's arXiv page. 
-- ***Pub. Date*** refers to the formal publication date of the venue, where ***--*** indicates the paper has not yet been formally published. 
-- The link on the publication date leads directly to the official conference or journal publication page. The table is sorted primarily by Pub. Date, followed by arXiv Date.
+- ***Pub. Date*** refers to the formal publication date of the venue, where ***--*** indicates the paper has not yet been formally published. The link on the publication date leads directly to the official conference or journal publication page. 
+- The table is sorted primarily by Pub. Date, followed by arXiv Date.
 
 
 | Method | arXiv Date | Pub. Date | Venue | Decoder-only LLM | Fine-tuned Task | LR | BS | Rank |
