@@ -1,6 +1,5 @@
 run-lora/lora-dataset/
 run-lora/output*/
 run-lora/wandb/
-*.txt
 __pycache__
 future_versioin_note.md
