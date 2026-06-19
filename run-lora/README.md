@@ -11,8 +11,8 @@
   - [2. Commonsense Reasoning](#2-commonsense-reasoning)
   - [3. Instruction Following](#3-instruction-following)
 - [Run Learning Rate Tuning](#run-learning-rate-tuning)
-- [Aggregate Results](#aggregate-results)  
 - [On Reproducibility](#on-reproducibility)
+- [Known Issues](#known-issues)
 
 ## Environment Setup
 
