@@ -1,4 +1,4 @@
-# Train various LoRA methods with learning tuning
+# Train various LoRA methods with learning rate tuning
 
 ## README Table of Contents
 - [Environment Setup](#environment-setup)
