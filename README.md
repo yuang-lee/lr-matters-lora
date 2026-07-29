@@ -2,7 +2,7 @@
 
 <div align="left">
 
-[![arXiv Paper](https://img.shields.io/static/v1?label=arXiv&message=Paper&color=red)](https://arxiv.org/abs/2602.04998) [![Awesome LoRA Paper List](https://img.shields.io/static/v1?label=Awesome&message=LoRA%20Paper%20List&color=blue)](./awesome-lora-paper-list)
+[![arXiv Paper](https://img.shields.io/static/v1?label=arXiv&message=Paper&color=red)](https://arxiv.org/abs/2602.04998) [![Awesome LoRA Paper List](https://img.shields.io/static/v1?label=Awesome&message=LoRA%20Paper%20List&color=blue)](./awesome-lora-paper-list) [![Poster](https://img.shields.io/static/v1?label=ICML&message=Poster&color=green)](./assets/lr-matters-lora-icml-2026-poster.pdf)
 </div>
 
  <!-- [![Wandb Logs](https://img.shields.io/static/v1?label=Wandb&message=Logs&color=yellow)](https://wandb.ai/team_fl/robust_PEFT?nw=nwuserspeeeedlee) -->
@@ -20,6 +20,7 @@
 - [Citation](#citation)
 
 ## News
+- [2026-07-06] 🎉 Our work has been accepted to two ICML workshops! [High-dimensional Learning Dynamics](https://icml.cc/virtual/2026/72349) and [Connecting Low-rank Representations in AI](https://icml.cc/virtual/2026/75869); download our poster [here](./assets/icml-poster.pdf).
 - [2026-05-16] Codebase released!
 - [2026-05-15] We updated the second version of our paper on [arXiv](https://arxiv.org/abs/2602.04998)! This version compares five additional LoRA variants and provides practical heuristics for LoRA hyperparameter tuning.
 - [2026-02-04] The first version of our paper was released on [arXiv](https://arxiv.org/abs/2602.04998) and [HuggingFace](https://huggingface.co/papers/2602.04998)!
