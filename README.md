@@ -1,3 +1,5 @@
+
+
 # Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning
 
 <div align="left">
@@ -65,7 +67,7 @@ By analyzing the eigenvalues of the loss Hessian across various initialization-b
   <em>
     ▲ Figure C3. Distributions of the ratios of the top loss Hessian eigenvalues relative to LoRA for Query projection matrices across Transformer layers on Qwen3-0.6B. Dashed lines indicate the medians. Refer to 
     <a href="./run-hessian"><code>./run-hessian</code></a>
-    for code of esitimating LoRA Hessian eigenvalues.
+    for code of estimating LoRA Hessian eigenvalues.
   </em>
 </p>
 
