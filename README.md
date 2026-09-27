@@ -22,6 +22,7 @@
 - [Citation](#citation)
 
 ## News
+- [2026-09-24] 🎉🎉🎉 Our work has been accepted to NeurIPS 2026 as a main conference paper! See you in Sydney!
 - [2026-07-06] 🎉 Our work has been accepted to two ICML workshops! [High-dimensional Learning Dynamics](https://icml.cc/virtual/2026/72349) and [Connecting Low-rank Representations in AI](https://icml.cc/virtual/2026/75869); download our poster [here](./assets/lr-matters-lora-icml-2026-poster.pdf).
 - [2026-05-16] Codebase released!
 - [2026-05-15] We updated the second version of our paper on [arXiv](https://arxiv.org/abs/2602.04998)! This version compares five additional LoRA variants and provides practical heuristics for LoRA hyperparameter tuning.
